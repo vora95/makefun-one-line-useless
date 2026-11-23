@@ -4,6 +4,8 @@
 // line naming a hilariously useless superpower. The power is mind-reading
 // with a catch that makes it worthless — it only works on the narrator's
 // own mind, and only after the embarrassing thing is already out loud.
+// The last words carry the whole joke: the power arrives exactly one
+// sentence too late, every single time.
 //
 // Deterministic: the same bytes on every run. No network, no input.
 import { mkdirSync, writeFileSync } from "node:fs";
